@@ -1,7 +1,7 @@
 {
   "name": "level1",
   "version": "1.0.0",
-  "description": "aloks level 1 milestone",
+  "description": "vittals level 1 milestone",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
